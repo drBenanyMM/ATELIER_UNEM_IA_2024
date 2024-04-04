@@ -1,0 +1,26 @@
+# Bibliothèques de base pour la manipulation des données
+pandas               # Bibliothèque de manipulation de données en Python
+numpy                # Bibliothèque pour le calcul numérique en Python
+
+# Bibliothèques d'apprentissage automatique
+tensorflow           # Bibliothèque open source d'apprentissage automatique développée par Google
+keras                # Interface de haut niveau pour TensorFlow, facilitant la création de réseaux de neurones
+
+# Bibliothèques pour la visualisation des données
+matplotlib           # Bibliothèque de visualisation des données en Python
+seaborn              # Bibliothèque de visualisation de données basée sur matplotlib
+
+# Bibliothèques pour l'apprentissage automatique supplémentaires
+scikit-learn         # Bibliothèque pour l'apprentissage automatique en Python
+nltk                 # Boîte à outils de traitement du langage naturel en Python
+
+# Bibliothèques pour le traitement des images
+opencv-python        # Bibliothèque open source pour le traitement des images et la vision par ordinateur
+PIL                  # Bibliothèque Python pour le traitement d'images
+
+# Bibliothèques pour l'apprentissage en profondeur
+torch                # Bibliothèque open source d'apprentissage en profondeur développée par Facebook
+fastai               # Bibliothèque open source d'apprentissage en profondeur basée sur PyTorch
+
+# Bibliothèques pour l'apprentissage par renforcement
+gym                  # Boîte à outils open source pour développer et comparer des algorithmes d'apprentissage par renforcement
